@@ -16,7 +16,7 @@ int main(void)
     // get user input
     do
     {
-        printf("Welcome to the Mario pyramide. Please choose a height: ");
+        printf("Welcome to the Mario pyramid. Please choose a height: ");
         height = GetInt();
     }
 
